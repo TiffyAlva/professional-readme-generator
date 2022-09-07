@@ -10,7 +10,7 @@ const questions = [
         type: "input",
         name: "title",
         message: "What is your project title?",
-        //if , else, console.log "Enter your project name."
+        
         
     },
 
@@ -18,7 +18,7 @@ const questions = [
         type: "input",
         name: "description",
         message: "Describe your project in a short sentences.",
-        //if, else, console.log "Enter installation intructions for your application"
+        
 
     },
 
@@ -27,9 +27,16 @@ const questions = [
         type: "input",
         name: "installation",
         message: "Describe the installation instructions.",
-        //if, else, console.log "Enter installation for your application"
+        
 
         
+    },
+
+    {
+        type: "input",
+        name: "usage",
+        message: "What is the usage?",
+
     },
 
     
@@ -46,28 +53,28 @@ const questions = [
         type: "input",
         name: "tests",
         message: "Provide test instructions for application."
-        //if, else, console.log "Enter instuctions."
+        
     },
 
     {
         type: "input",
         name: "contribution",
         message: "Explain how another developer can contribute to the project."
-        //if, else, console.log "Describe contribution to your project."
+        
     },
 
     {
         type: "input",
         name: "github",
         message: "Provide your GitHub username."
-        //if, else, console.log "Enter your GitHub username."
+        
     },
 
     {
       type: "input",
       name: "repo",
       message: "What is the URL of the GitHub repository?"
-      //if, else, console.log "Enter your GitHub repository."
+      
 
     },
 
@@ -77,7 +84,7 @@ const questions = [
         type: "input",
         name: "email",
         message: "What is your email?"
-        //if, else, console.log "Enter your contact email."
+        
     }
    
 
@@ -87,12 +94,12 @@ const questions = [
         
 ];
 
-// TODO: Create a function to write README file *(DONE. LINE 108)
+// TODO: Create a function to write README file    
 function writeToFile(fileName, data) {}
 
-//console.log "README.md file is completed!" *(DONE. LINE 104)
+//console.log "README.md file is completed!"     *(LINE 104)
 
-// TODO: Create a function to initialize app //answers
+// TODO: Create a function to initialize app   *(Answers)
 function init() {
     inquirer.prompt(questions)
     .then(function(answers){
@@ -105,5 +112,5 @@ function init() {
     })
 }
 
-// Function call to initialize app *(DONE. LINE 102)
+// Function call to initialize app 
 init();
