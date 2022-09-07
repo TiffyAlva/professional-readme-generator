@@ -21,6 +21,7 @@ const questions = [
 
     },
 
+    
     {
         type: "input",
         name: "installation",
@@ -79,7 +80,7 @@ const questions = [
     },
 
    
-
+// add "Usage"
    
 
       
@@ -91,7 +92,7 @@ const questions = [
 // TODO: Create a function to write README file *(DONE. LINE 108)
 function writeToFile(fileName, data) {}
 
-//console.log "README.md file is completed!"
+//console.log "README.md file is completed!" *(DONE. LINE 104)
 
 // TODO: Create a function to initialize app //answers
 function init() {
