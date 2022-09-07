@@ -31,10 +31,21 @@ function generateMarkdown(data) {
   ## Description 
   ${data.description}
 
-  ## Table of Content
+  ## Table of Contents 
+  * [User Story] (#)
+  * [Acceptance criteria] (#)
+  * [Visuals] ([!])
+  * [Installation]  
+  * [License] (#license)
+  * [Contributing] (#contributing)
+  * [Tests] (#tests)
+  * [Contact] (#contact)  
+
+  
 
   ## Installation 
   ${data.installation}
+  
 
   ## License 
   ${data.license}

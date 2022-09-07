@@ -1,7 +1,8 @@
+// TODO: Include packages needed for this application
 const inquirer  = require("inquirer");
 const generateMarkdown = require("./generateMarkdown");
 const fs = require("fs") 
-// TODO: Include packages needed for this application
+
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -77,10 +78,7 @@ const questions = [
         name: "email",
         message: "What is your email?"
         //if, else, console.log "Enter your contact email."
-    },
-
-   
-// add "Usage"
+    }
    
 
       

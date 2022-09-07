@@ -1,20 +1,32 @@
-# Generate README
-  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+# j
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Description 
-  N/A
+  
+
+  ## Table of Contents
+  * [User Story](#user)
+  * [Acceptance criteria](#acceptance)
+  * [Visuals](#)
+  * [Installation](#installation) 
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Contact Informations](#contact)  
+
+  
 
   ## Installation 
-  N/A
+  f
+  
 
   ## License 
-  BSD 3-Clause License
+  Apache 2.0 License
 
   ## Contributing undefined
-  ## Tests N/A
+  ## Tests f
   ## Contact me: undefined undefined
 
-Table of Content
 
 
 
