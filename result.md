@@ -2,7 +2,7 @@
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Description: 
-  Testing purposes
+  Testing Project
   
 
   ## Table of Contents:
@@ -19,7 +19,7 @@
 
 
   ## Installation: 
-  Install inquirer, run npn init, and run node index.js
+  Install inquirer, run npm init, and run node.js
 
   ## Usage:
   Testing
@@ -34,7 +34,7 @@
    N/A
   
    ## Contact: 
-  Tiffyalva TiffanyAlvarez54@gmail.com test@github.com
+  TiffyAlva testing@gmail.com test@github.com
    
 
 

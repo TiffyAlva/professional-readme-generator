@@ -1,4 +1,4 @@
-# Testing-README-Generator
+# README-Generator
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -44,10 +44,10 @@ SO THAT I can quickly create a professional README for a new project</pre>
 <b>THEN</b> I am taken to the corresponding section of the README</pre>
 
 ## Visuals:
-### Terminal:
+- Terminal:
 ![](./images/result.md-testing-copy.jpg)
 
-### VS Code:
+- VS Code:
 ![](./images/Testing-README-Generator1.jpg)
 
 ![](./images/Testing-README-Generator2.jpg)
